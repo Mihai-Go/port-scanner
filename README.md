@@ -49,10 +49,5 @@ Port 443: CLOSED
 - Show service names for common ports
 - Save results to a file
 
-## License
-
-Open source under the MIT License.
-
----
 
 **Made by Mihai-Go**
